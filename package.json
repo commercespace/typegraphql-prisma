@@ -1,5 +1,5 @@
 {
-  "name": "typegraphql-prisma",
+  "name": "@cs-engine/typegraphql-prisma-nestjs-keycloak",
   "version": "0.19.2",
   "scripts": {
     "build": "tsc",
